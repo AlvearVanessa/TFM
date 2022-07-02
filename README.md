@@ -12,5 +12,6 @@ En esta trabajo creamos varios modelos de regresión de imágenes utilizando alg
     Modelo7.ipynb. En este notebook se aplica la arquitectura ResNet34.
     Modelo8.ipynb. En este notebook se aplica la arquitectura EfficientNetB3.
     Modelo9.ipynb. En este notebook se aplica la arquitectura ResNet152.
+    Ensemble.ipynb. En este notebook se aplica un modelo de Ensemble con los mejores modelos.
 
 
